@@ -1,8 +1,8 @@
 # AplikasiLogin
 Aplikasi dengan fitur login
 
-1. Memasukkan nama, email, dan password
-2. Memvalidasi masukan.
-3. Memvalidasi pengguna dengan deteksi wajah.
-4. Memasukkan nama ibu untuk validasi.
-5. Menampilkan halaman home.
+1. Pembuatan Akun GitHub 
+2. Membuat sebuah Repository/Folder dalam GitHub
+3. Menambahkan berkas Alur Fitur Login
+4. Mengubah konten sesuai dengan yang diminta
+5. Melihat perubahan yang dilakukan pada setiap versi.
